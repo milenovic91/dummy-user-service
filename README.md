@@ -1,1 +1,1 @@
-This is dummy project
+This is dummy project!
